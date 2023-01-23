@@ -59,7 +59,7 @@ https://frontend-two-sepia-41.vercel.app
 
 
 
-## Authors
+## Contributors
 
 - Anirudha Mandal (https://github.com/crusher8010)
 - Sudev Kumar (https://github.com/sudevkumar)
