@@ -21,8 +21,8 @@ Here you can get variety of products like clothing, electronics, furniture etc.
 ?raw=true)
 
 ## Admin Page
-![Admin Page Screenshot](![Screenshot (254)](https://user-images.githubusercontent.com/107462155/214115202-bfeb49e2-c697-443c-b4cf-4dd19b636b38.png)
-?raw=true)
+![Admin Page Screenshot](![Screenshot (254)](![Screenshot (255)](https://user-images.githubusercontent.com/107462155/214115703-f38a82e2-37a6-4eba-84f7-d5e85a8d8a2d.png)
+)
 
 ## Cart Page
 ![Cart Screenshot](![Screenshot (252)](https://user-images.githubusercontent.com/107462155/214115313-4c32bce6-c6c5-43d5-b9fe-b1fcb66f997e.png)
