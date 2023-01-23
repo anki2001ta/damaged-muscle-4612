@@ -9,19 +9,24 @@ Here you can get variety of products like clothing, electronics, furniture etc.
 ## Screenshots
 
 ## Home Page
-![Home Page Screenshot](https://github.com/crusher8010/damaged-muscle-4612/blob/main/frontend/src/assets/Screenshot%20(116).png)
+![Home Page Screenshot](![Screenshot (248)](https://user-images.githubusercontent.com/107462155/214114463-5e52bb02-1570-42e8-bf8e-5a048c0a1d2e.png)
+?raw=true)
 
 ## Product Page
-![Product Page Screenshot](https://github.com/crusher8010/damaged-muscle-4612/blob/main/frontend/src/assets/Screenshot%20(117).png?raw=true)
+![Product Page Screenshot](![Screenshot (247)](https://user-images.githubusercontent.com/107462155/214114689-b99a83d1-b849-4593-9b0e-3f0b213c4cd3.png)
+?raw=true)
 
 ## Login Page
-![Login Page Screenshot](https://github.com/crusher8010/damaged-muscle-4612/blob/main/frontend/src/assets/Screenshot%20(118).png?raw=true)
+![Login Page Screenshot](![Screenshot (251)](https://user-images.githubusercontent.com/107462155/214115043-6760c5f8-fedd-4b90-ac8c-a921dd5f9e0a.png)
+?raw=true)
 
 ## Admin Page
-![Admin Page Screenshot](https://github.com/crusher8010/damaged-muscle-4612/blob/main/frontend/src/assets/Screenshot%20(119).png?raw=true)
+![Admin Page Screenshot](![Screenshot (254)](https://user-images.githubusercontent.com/107462155/214115202-bfeb49e2-c697-443c-b4cf-4dd19b636b38.png)
+?raw=true)
 
 ## Cart Page
-![Cart Screenshot](https://github.com/crusher8010/damaged-muscle-4612/blob/main/frontend/src/assets/Screenshot%20(120).png?raw=true)
+![Cart Screenshot](![Screenshot (252)](https://user-images.githubusercontent.com/107462155/214115313-4c32bce6-c6c5-43d5-b9fe-b1fcb66f997e.png)
+?raw=true)
 
 
 
